@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy on White-Hall</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08988</idno>
+            <idno type="STC">Wing E443C</idno>
+            <idno type="STC">ESTC R174933</idno>
+            <idno type="EEBO-CITATION">69648637</idno>
+            <idno type="OCLC">ocm 69648637</idno>
+            <idno type="VID">184904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184904)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2879:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy on White-Hall</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: faded print; filmed in the negative to get better print.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:184904:1"/>
+            <head>AN ELEGY ON WHITE-HALL.</head>
+            <lg>
+               <l>WEEP all ye Mortals who have Teares to ſpare</l>
+               <l>You that have none, continue as you are:</l>
+               <l>But if you can't your uſual Temper keep,</l>
+               <l>You, if you pleaſe, may <hi>Laugh</hi> at thoſe that <hi>Weep</hi>
+               </l>
+               <l>But <hi>Reader,</hi> thou may'ſt juſtly ask me why,</l>
+               <l>Or wherefore, I would have you <hi>Laugh</hi> or <hi>Cry:</hi>
+               </l>
+               <lg>
+                  <l>I'll tell thee then, if know the truth you muſt,</l>
+                  <l>Alas! alas! WHITE-HALL's Conſum'd to Duſt,</l>
+                  <l>In Earthly things, Ah! Who would put their truſt?</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Tho' I confeſs, if I may be ſo bold,</l>
+               <l>To tell to you, what I have oft been told,</l>
+               <l>'Twas but a wicked Structure whilſt it ſtood,</l>
+               <l>I always thought 'twould never come to Good.</l>
+            </lg>
+            <lg>
+               <l>Moſt, I believe, will my Opinion hold,</l>
+               <l>Like ſome good Wives, 'twas <hi>
+                     <g ref="char:V">Ʋ</g>gly,</hi> and 'twas <hi>Old.</hi>
+               </l>
+               <lg>
+                  <l>Some think it was a Palace of Renown,</l>
+                  <l>But I muſt ſay (with rev'rence to the Crown)</l>
+                  <l>It never look'd truly Noble till 'twas down.</l>
+               </lg>
+               <lg>
+                  <l>As ſcatter'd Ruins moſt delightful be,</l>
+                  <l>In whoſe <hi>Diſorder</hi> we more <hi>Beauty</hi> ſee,</l>
+                  <l>Than can be found in <hi>Regularity.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Before 'twas Burnt, it Unregarded ſtood,</l>
+               <l>A ſhapeleſs, homely Pile of Brick and Wood</l>
+               <l>But when the fatal Flames had bore it down,</l>
+               <l>'Twas Gaiz'd at, and Admir'd by all the Town.</l>
+            </lg>
+            <lg>
+               <l>Alas 'tis gon! And all that does remain,</l>
+               <l>Is to Rebuild it Finer up again;</l>
+               <l>Which Politicians ſay will be the ſequel,</l>
+               <l>So <hi>Laugh,</hi> or <hi>Cry,</hi> to me the matter's equal.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>John Harris</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
